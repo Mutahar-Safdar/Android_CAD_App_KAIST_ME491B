@@ -22,7 +22,7 @@ For the extrusion process, multiple scripts are used. First a script takes the p
 to us. In the script extrude we use them for extrude and cut extrude functions. The cut extrude functions also relies on other scripts 
 from the CSG folder found on the web.
 
-                                                 ===========================
+                                                 
 Implementation Environment:
 _______________________________________________________________________________________________________________________________________
 
@@ -42,4 +42,4 @@ Mutahar Safdar (mutaharsafdar@kaist.ac.kr)
 
 Alexandre Chopin (alexandre59147@gmail.com)
 
-
+                                                 ===========================
