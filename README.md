@@ -1,4 +1,5 @@
-*****This Project is a part of Feature-based modeling class offered by Prof. Han of KAIST*****                   [https://sites.google.com/view/kaist-2018f-me491b/home]
+*****This Project is a part of Feature-based modeling class offered by Prof. Han of KAIST*****                   
+[https://sites.google.com/view/kaist-2018f-me491b/home]
                            
 Code Explanation:                      
 ___________________________________________________________________________________________________________________________________                          
