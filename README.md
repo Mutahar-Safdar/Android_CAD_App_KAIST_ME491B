@@ -1,7 +1,7 @@
 *****This Project is a part of Feature-based modeling class offered by Prof. Han of KAIST*****                   [https://sites.google.com/view/kaist-2018f-me491b/home]
                            
 Code Explanation:                      
-                           
+___________________________________________________________________________________________________________________________________                          
                            A simple feature based 3D CAD modeler that can run on your smartphone.
                                                  ===============================
 New objects (sketch, rectangle on sketch, plane) are made by duplicating a prefab (ex: planePrefab) that contains the components 
@@ -24,15 +24,19 @@ from the CSG folder found on the web.
 
                                                  ===========================
 Implementation Environment:
-
+_______________________________________________________________________________________________________________________________________
 
 Computer Operating System: Windows 10 64 bit
+
 Development Engine: Unity 3D Version 2018.2.2f1
+
 Integrated Development Environment: Visual Studio 2017
+
 Programming Language: C#
 
 
 Contact:
+_______________________________________________________________________________________________________________________________________
 
 Mutahar Safdar (mutaharsafdar@kaist.ac.kr)
 
