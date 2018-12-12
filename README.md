@@ -1,6 +1,6 @@
 *****This Project is a part of Feature-based modeling class offered by Prof. Han of KAIST*****                   [https://sites.google.com/view/kaist-2018f-me491b/home]
                            
-                           
+Code Explanation:                      
                            
                            A simple feature based 3D CAD modeler that can run on your smartphone.
                                                  ===============================
@@ -23,3 +23,15 @@ to us. In the script extrude we use them for extrude and cut extrude functions. 
 from the CSG folder found on the web.
 
                                                  ===========================
+Implementation Environment:
+
+
+Computer Operating System: Windows 10 64 bit
+Development Engine: Unity 3D Version 2018.2.2f1
+Integrated Development Environment: Visual Studio 2017
+Programming Language: C#
+
+
+Contact:
+
+
